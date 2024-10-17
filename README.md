@@ -5,11 +5,10 @@
 <br>
 
 ![dlwnsgur9242 GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwnsgur9242&show_icons=true&theme=true)
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwsngur9242)](https://solved.ac/dlwsngur9242/)
 <br>
 
-### Contact
+# :mailbox_with_mail: Contacts
 <a href="https://sites.google.com/view/dlwnsgur9242/%ED%99%88"><img src="https://img.shields.io/badge/Curriculum_Vitae-blue?style=flat-square"/></a>ㅤ
 <a href="https://junlove-dam1ary.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-e15336?style=flat-square&logo=Tistory&logoColor=white"/></a>ㅤ
 <a href="mailto:dlwnsgur9242@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flatsquare&logo=Gmail&logoColor=white&link=daming.py@gmail.com"/></a>
