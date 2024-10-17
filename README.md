@@ -6,6 +6,7 @@
 
 ![dlwnsgur9242 GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwnsgur9242&show_icons=true&theme=true)
 <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnsgur9242)](https://solved.ac/백준아이디/)
 <br>
 
 ### Contact
