@@ -1,10 +1,10 @@
 <h4> Hi I'm Junhyuk🍀 </h4>
 <br>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnsgur9242&langs_count=6&layout=compact&theme=light&hide_progress=true&&hide=html,css,c%2B%2B,powershell,scss,batchfile)](https://github.com/dlwnsgur9242/iamdami)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnsgur9242&langs_count=6&layout=compact&theme=light&hide_progress=true&&hide=html,css,c%2B%2B,powershell,scss,batchfile)](https://github.com/dlwnsgur9242/)
 <br>
 
-![dlwnsgur9242 GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwnsgur9242&show_icons=true&theme=dark)
+![dlwnsgur9242 GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwnsgur9242&show_icons=true&theme=true)
 <br>
 <br>
 
