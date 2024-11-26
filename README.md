@@ -12,4 +12,4 @@
 <a href="https://junlove-dam1ary.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-e15336?style=flat-square&logo=Tistory&logoColor=white"/></a>ㅤ
 <a href="mailto:dlwnsgur9242@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flatsquare&logo=Gmail&logoColor=white&link=daming.py@gmail.com"/></a>
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlwnsgur9242%2F&count_bg=%23A8BCEE&title_bg=%23FDFF38&icon=python.svg&icon_color=%2372EE8E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlwnsgur9242%2F&count_bg=%23A8BCEE&title_bg=%23FDFF38&icon=python.svg&icon_color=%2372EE8E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)`
