@@ -8,8 +8,7 @@
 <br>
 
 
-# :mailbox_with_mail: Contacts
-<a href="https://sites.google.com/view/dlwnsgur9242/%ED%99%88"><img src="https://img.shields.io/badge/Curriculum_Vitae-blue?style=flat-square"/></a>ㅤ
+# :mailbox_with_mail: Contactsㅤ
 <a href="https://junlove-dam1ary.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-e15336?style=flat-square&logo=Tistory&logoColor=white"/></a>ㅤ
 <a href="mailto:dlwnsgur9242@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flatsquare&logo=Gmail&logoColor=white&link=daming.py@gmail.com"/></a>
 <br>
