@@ -1,12 +1,11 @@
 <h4> Hi I'm Junhyuk 🐕 </h4>
 <br>
-
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnsgur9242&langs_count=6&layout=compact&theme=light&hide_progress=true&&hide=html,css,c%2B%2B,powershell,scss,batchfile)](https://github.com/dlwnsgur9242/dlwnsgur9242)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnsgur9242&langs_count=8&layout=compact&theme=light&hide_progress=true&&hide=html,css,c%2B%2B,powershell,scss,batchfile)](https://github.com/dlwnsgur9242/dlwnsgur9242)
 <br>
-![dlwnsgur9242 GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwnsgur9242&show_icons=true&theme=transparent)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwsngur9242)](https://solved.ac/dlwsngur9242/)
 <br>
-
 
 # :mailbox_with_mail: Contactsㅤ
 <a href="https://junlove-dam1ary.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-e15336?style=flat-square&logo=Tistory&logoColor=white"/></a>ㅤ
