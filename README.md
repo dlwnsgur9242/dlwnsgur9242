@@ -1,4 +1,4 @@
-<h4> Hi I'm Junhyuk 🐕 </h4>
+<h4> Hi I'm Junhyuk 🐹 </h4>
 
 <h3> Contact🍀 </h3>
 <a href="https://junlove-dam1ary.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-e15336?style=flat-square&logo=Tistory&logoColor=white"/></a>ㅤ
