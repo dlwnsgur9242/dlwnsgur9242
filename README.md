@@ -1,6 +1,6 @@
-Hi I'm Junhyuk
+Hi I'm Junhyuk.
 
-A System Engineer deeply passionate about field-driven DX (Digital Transformation).
+A System Engineer deeply passionate about field-driven DX (Digital Transformation).</br>
 I focus on identifying operational inefficiencies on-site and solving them by integrating Web Services and AI. 
 
 ### Interest
