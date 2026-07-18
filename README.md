@@ -1,11 +1,14 @@
-#### Hi I'm Junhyuk 🐹
-> **CS major working in IT, focusing on service development and security.**
+Hi I'm Junhyuk
 
-### 🛠 Tech Stack & Interests
-* **Development:** Service Development (Backend )
-* **Security:** Cybersecurity (Ethical Hacking & Cryptography)
+A System Engineer deeply passionate about field-driven DX (Digital Transformation).
+I focus on identifying operational inefficiencies on-site and solving them by integrating Web Services and AI. 
 
-<h3> Contact🍀 </h3>
+### Interest
+* Service Development
+* DX (Digital Transformation)
+* Security & Hacking
+
+### Contact
 <a href="https://junlove-dam1ary.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-e15336?style=flat-square&logo=Tistory&logoColor=white"/></a>ㅤ
 <a href="mailto:dlwnsgur9242@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flatsquare&logo=Gmail&logoColor=white&link=daming.py@gmail.com"/></a>
 
